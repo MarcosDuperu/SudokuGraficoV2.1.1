@@ -1,0 +1,48 @@
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+c:\users\isley\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\andres\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\marco\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.cache
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\n3tting\Desktop\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\marco\Desktop\Sudoku_Grafico_V2.2.1\SudokuSolver\obj\Debug\SudokuSolver.pdb
